@@ -1,4 +1,4 @@
-**DFIR · Blockchain Forensics · FinCrime**
+# DFIR · Blockchain Forensics · FinCrime #
 
 Investigating at the intersection of cybersecurity, fintech, crypto and financial crime. CS major, based in São José dos Campos, Brazil.
 
@@ -15,7 +15,7 @@ Investigating at the intersection of cybersecurity, fintech, crypto and financia
 
 **Forensics:** Autopsy · The Sleuth Kit · IPED · Volatility · Foremost · ExifTool · ewf-tools · Maltego CE
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=phvaz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
