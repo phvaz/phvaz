@@ -1,4 +1,4 @@
-# DFIR · Blockchain Forensics · FinCrime #
+# DFIR · Cybersecurity · Blockchain Forensics  #
 
 Investigating at the intersection of cybersecurity, fintech, crypto and financial crime. CS major, based in São José dos Campos, Brazil.
 
