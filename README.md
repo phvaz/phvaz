@@ -1,10 +1,8 @@
-# Hi, I'm Paulo 👋
+**DFIR · Blockchain Forensics · FinCrime**
 
-**DFIR · Blockchain Forensics · Crypto Fraud Investigation**
+Investigating at the intersection of cybersecurity, fintech, crypto and financial crime. CS major, based in São José dos Campos, Brazil.
 
-Investigating at the intersection of cybersecurity, fintech, crypto and financial crime. CS student at UniCV, based in São José dos Campos, Brazil.
-
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
@@ -26,7 +24,7 @@ Investigating at the intersection of cybersecurity, fintech, crypto and financia
 
 <img src="https://streak-stats.demolab.com?user=phvaz&theme=tokyonight&hide_border=true" height="165" />
 
-### 📫 Contact
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohvz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phvaz2001@gmail.com)
